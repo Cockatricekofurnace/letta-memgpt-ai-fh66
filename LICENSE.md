@@ -1,4 +1,4 @@
-# 
+# Official Letta (MemGPT) templates. Featuring version-control and cloud-sync — optimized for maximum performance and efficiency.
 
 
 
